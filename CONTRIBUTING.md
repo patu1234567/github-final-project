@@ -1,14 +1,29 @@
-# Face Mask Detection Project Contribution Guidelines
+# Contributing to the Simple Interest Calculator
 
-Welcome to the Face Mask Detection Project! We appreciate your interest in contributing to our open-source project. Together, we can make a positive impact on public health through technology and innovation. Before you get started, please take a moment to read and understand these contribution guidelines.
+Thank you for considering contributing to the Simple Interest Calculator project. We appreciate your interest in helping us improve and expand this educational tool.
+
+## Project Purpose
+
+The Simple Interest Calculator is a basic script designed exclusively for educational and illustrative purposes. It allows users to calculate simple interest by providing three critical parameters: the principal amount, annual rate of interest, and the time period in years.
+
+**Important Note:** This script is not intended for use in production environments or for any real-world financial calculations. Its sole purpose is to serve as a sample project for educational purposes.
+
+## Why Contribute?
+
+Contributing to this project allows you to:
+
+- Enhance your understanding of programming logic and scripting.
+- Gain hands-on experience with shell scripting or similar languages.
+- Contribute to an educational resource that can help others learn.
+- Collaborate with a community of learners and developers.
 
 ## How to Contribute
 
-We welcome contributions in various forms, including but not limited to:
+We welcome contributions in various forms:
 
-1. **Bug Reports:** If you encounter a bug or unexpected behavior, please report it. Include detailed information about the issue, steps to reproduce it, and your environment.
+1. **Bug Reports:** If you come across a bug or unexpected behavior, please report it. Include detailed information about the issue, steps to reproduce it, and your environment.
 
-2. **Feature Requests:** Have an idea for a new feature or improvement? Let us know! Describe the feature and its potential benefits.
+2. **Feature Requests:** If you have ideas for new features or improvements, let us know! Describe the feature and its potential benefits.
 
 3. **Code Contributions:** You can contribute by submitting code changes, such as bug fixes, enhancements, or new features. Fork the repository, create a branch, make your changes, and submit a pull request.
 
@@ -20,25 +35,15 @@ We welcome contributions in various forms, including but not limited to:
 
 ## Getting Started
 
-To contribute to the Face Mask Detection Project, follow these steps:
+To contribute to the Simple Interest Calculator, follow these steps:
 
-1. **Fork the Repository:** Click the "Fork" button at the top-right corner of the repository to create your copy.
+1. **Fork the Repository:**
 
-2. **Clone Your Fork:** Clone your forked repository to your local machine:
+   Click the "Fork" button at the top-right corner of the repository to create your copy.
+
+2. **Clone Your Fork:**
+
+   Clone your forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/face-mask-detection.git
-
-Create a branch
-git checkout -b feature-or-fix-branch
-
-git commit -m "Add feature XYZ" 
-
-git push origin feature-or-fix-branch
-
-Code Style
-Maintain a consistent code style with the project. Refer to any existing code and follow the established conventions. If necessary, we can provide specific style guidelines for your contributions.
-
-
-In this contribution guideline, provide clear instructions on how contributors can get involved in your project, including reporting issues, proposing new features, making code changes, and maintaining a consistent code style. Replace `[Your Contact Email]`, `[Your Name or Organization]`, and other placeholders with your actual information.
-
+   git clone https://github.com/your-username/simple-interest-calculator.git
